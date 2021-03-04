@@ -1,0 +1,1 @@
+This is Smile Detector App Made using Python.
